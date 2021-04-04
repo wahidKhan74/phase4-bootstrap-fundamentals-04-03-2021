@@ -1,0 +1,26 @@
+.alert{
+    margin-bottom: 0rem !important;
+}
+.jumbotron{
+    margin-bottom: 0rem; 
+}
+
+.card {
+    background-color: #e9ecef;
+    border: 1px solid rgb(17, 17, 18);
+}
+.card-deck{
+    background-color: #e9ecef;
+}
+
+form{
+    margin: auto;
+    margin-top: 5%;
+    border: 2px solid black;
+    padding: 30px;
+}
+
+.mt-3 {
+    margin-top: 2rem!important;
+    text-align: center;
+}
